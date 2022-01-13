@@ -1,9 +1,6 @@
-import beautifultable
-from websites import gamenation
-from beautifultable import BeautifulTable
-import pyshorteners
 import os
-
+from websites import gamenation
+import pyshorteners
 from discord.ext import commands
 from dotenv import load_dotenv
 
