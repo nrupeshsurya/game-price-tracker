@@ -1,2 +1,3 @@
 # game-price-tracker
-Tracking prices from Gamenation
+Discord bot for tracking prices from Gamenation.
+Planning to add support for Gameloot soon. 
